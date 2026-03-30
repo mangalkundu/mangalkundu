@@ -10,7 +10,7 @@ Passionate about **Data Analysis** | Data Science & Software Development Enthusi
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kundumangal876@gmail.com)
 
 <!-- Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=00FFFF,FF10F0&center=TRUE&vCenter=true&width=500&height=20&lines=OPEN+TO+DATA+ANALYST+ROLES;AVAILABLE+IMMEDIATELY" alt="Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=00FFFF,FF10F0&center=TRUE&vCenter=true&width=500&lines=OPEN+TO+DATA+ANALYST+ROLES;AVAILABLE+IMMEDIATELY" alt="Animation" />
 
 ---
 
