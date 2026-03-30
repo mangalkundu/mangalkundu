@@ -12,33 +12,16 @@
 
 ---
 
-## 🌟 Featured Project
-
-### [FutureNFT Marketplace](https://github.com/mangalkundu/futurenft-marketplace)
-
-A live NFT marketplace website built with Laravel Blade. I redesigned multiple view files with custom HTML, CSS, and JavaScript. Purchased domain `futurenft.io` and deployed on Hostinger.
-
-🔗 **Live:** [https://futurenft.io/](https://futurenft.io/)
-
----
-
-## 📊 GitHub Stats
-
-![Mangal's GitHub stats](https://github-readme-stats.vercel.app/api?username=mangalkundu&show_icons=true&theme=default)
-
----
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mangalkundu)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kundumangal876@gmail.com)
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://futurenft.io)
 
 ---
 
 ## 💡 About Me
 
-- 🌱 I'm currently strengthening my skills in **Python, SQL, and Laravel**
+- 🌱 I'm currently strengthening my skills in **Python, SQL, and DBMS**
 - 👨‍💻 I built and deployed a live website during my career break
 - 🏺 I also supported my family's pottery business, which taught me responsibility and time management
 - 🎯 Looking for my first opportunity in **Software Development**
