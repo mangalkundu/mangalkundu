@@ -10,9 +10,9 @@
 
 | Category | Skills |
 |----------|--------|
-| **Database** | SQL, MySQL, DBMS, Normalization, Joins, Subqueries |
-| **Programming** | Python (Basics) |
-| **Visualization** | Tableau |
+| **Database** | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![DBMS](https://img.shields.io/badge/DBMS-4479A1?style=flat-square&logo=database&logoColor=white) |
+| **Programming** | ![Python](https://img.shields.io/badge/Python-Basic-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| **Visualization** | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) |
 | **Other** | Problem Solving, Analytical Thinking |
 
 ---
@@ -35,7 +35,7 @@ A live NFT marketplace website. Gained experience in database management and dep
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mangalkundu)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kundumangal876@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mangalkundu)
 
 ---
 
