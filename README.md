@@ -28,12 +28,12 @@ Passionate about **Data Analysis** | Data Science & Software Development Enthusi
 ## Featured Projects
 
 ### 🔹 SQL Portfolio
-[![Repository](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/mangalkundu/sql-portfolio)
+[![Repository](https://img.shields.io/badge/GitHub-View_Repo-E97627?style=flat-square&logo=github)](https://github.com/mangalkundu/sql-portfolio)
 
 Collection of SQL queries demonstrating joins, aggregations, subqueries, and database concepts.
 
 ### 🔹 FutureNFT Marketplace
-[![Repository](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/mangalkundu/futurenft-marketplace)
+[![Repository](https://img.shields.io/badge/GitHub-View_Repo-E97627?style=flat-square&logo=github)](https://github.com/mangalkundu/futurenft-marketplace)
 [![Live](https://img.shields.io/badge/Live-Website-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://futurenft.io/)
 
 A live NFT marketplace website. Gained experience in database management and deployment.
