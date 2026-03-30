@@ -9,6 +9,9 @@ Passionate about **Data Analysis** | Data Science & Software Development Enthusi
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mangalkundu)
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kundumangal876@gmail.com)
 
+<!-- Video Game Style Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=00FFFF&center=TRUE&vCenter=true&width=500&height=20&lines=OPEN+TO+DATA+ANALYST+ROLES;AVAILABLE+IMMEDIATELY" alt="Game Typing Animation" />
+
 ---
 
 ## Skills
@@ -34,10 +37,6 @@ Collection of SQL queries demonstrating joins, aggregations, subqueries, and dat
 [![Live](https://img.shields.io/badge/Live-Website-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://futurenft.io/)
 
 A live NFT marketplace website. Gained experience in database management and deployment.
-
----
-
-⭐️ *Open to Data Analyst roles | Available immediately*
 <!-- Animated Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&animation=twinkling" width="100%">
 
