@@ -1,14 +1,29 @@
 # 👋 Hi, I'm Mangal Kundu
 
 🎓 **BTech Computer Science Graduate**  
-💻 Passionate about Web Development & Databases  
-🚀 Open to Software Developer Roles  
+📊 Passionate about **Data Analysis & Data Science**  
+🐍 Python | MySQL | DBMS | Pandas | Data Visualization  
 
 ---
 
-## 🔧 Technologies & Tools
+## 🔧 Skills
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+| Category | Skills |
+|----------|--------|
+| **Languages** | Python, SQL |
+| **Databases** | MySQL, DBMS |
+| **Data Tools** | Pandas, Matplotlib, Seaborn, Jupyter |
+| **Other** | Excel, Problem Solving |
+
+---
+
+## 📊 Featured Projects
+
+### [NFT Market Analysis](https://github.com/mangalkundu/nft-market-analysis)
+Analyzed NFT sales data using Python and SQL. Cleaned data, wrote complex queries, and created visualizations to identify market trends.
+
+### [FutureNFT Marketplace](https://github.com/mangalkundu/futurenft-marketplace)
+Live NFT website with MySQL database backend. Focused on database design and data management.
 
 ---
 
@@ -19,13 +34,4 @@
 
 ---
 
-## 💡 About Me
-
-- 🌱 I'm currently strengthening my skills in **Python, SQL, and DBMS**
-- 👨‍💻 I built and deployed a live website during my career break
-- 🏺 I also supported my family's pottery business, which taught me responsibility and time management
-- 🎯 Looking for my first opportunity in **Software Development**
-
----
-
-⭐️ *Open to opportunities | Available for immediate joining*
+⭐️ *Open to Data Analyst / Data Scientist roles | Available immediately*
