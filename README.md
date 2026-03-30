@@ -10,9 +10,10 @@
 
 | Category | Skills |
 |----------|--------|
-| **Database** | SQL, MySQL, DBMS, Normalization |
+| **Database** | SQL, MySQL, DBMS, Normalization, Joins, Subqueries |
 | **Programming** | Python (Basics) |
 | **Visualization** | Tableau |
+| **Other** | Problem Solving, Analytical Thinking |
 
 ---
 
