@@ -2,7 +2,7 @@
 
 🎓 **BTech Computer Science Graduate**  
 📊 Passionate about **Data Analysis** | Interested in Data Science & Software Development  
-🐍 Strong foundation in SQL, Python and DBMS 
+🐍 Strong foundation in **SQL, Python and DBMS** 
 
 ---
 
