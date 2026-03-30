@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Mangal Kundu
 
 🎓 **BTech Computer Science Graduate**  
-📊 Passionate about **Data Analysis**  
-🐍 SQL | Python | DBMS | Tableau  
+📊 Passionate about **Data Analysis** | Interested in Data Science & Software Development  
+🐍 Strong foundation in SQL, Python and DBMS 
 
 ---
 
