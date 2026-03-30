@@ -10,7 +10,7 @@ Passionate about **Data Analysis** | Data Science & Software Development Enthusi
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kundumangal876@gmail.com)
 
 <!-- Video Game Style Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=00FFFF,FF10F0&center=TRUE&vCenter=true&width=500&height=30&lines=OPEN+TO+DATA+ANALYST+ROLES;AVAILABLE+IMMEDIATELY" alt="Game Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=00FFFF,FF10F0&center=TRUE&vCenter=true&width=500&height=20&lines=OPEN+TO+DATA+ANALYST+ROLES;AVAILABLE+IMMEDIATELY" alt="Game Typing Animation" />
 
 ---
 
@@ -40,7 +40,7 @@ A live NFT marketplace website. Gained experience in database management and dep
 <!-- Animated Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&animation=twinkling" width="100%">
 
-  <sub style="color: #666; opacity: 0.5; font-size: 6px;">
+  <sub style="color: #666; opacity: 0.5; font-size: 8px;">
     Ⓒ 2026 Mangal Kundu • All Rights Reserved
   </sub>
 
