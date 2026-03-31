@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Mangal Kundu
+# 👋🏼 Hi, I'm Mangal Kundu
 
 🎓 **BTech Computer Science Graduate**  
 Passionate about **Data Analysis** | Data Science & Software Development Enthusiast  
@@ -19,8 +19,8 @@ Passionate about **Data Analysis** | Data Science & Software Development Enthusi
 | Category | Skills |
 |----------|--------|
 | **📀 Database** | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![DBMS](https://img.shields.io/badge/DBMS-4479A1?style=flat-square&logo=database&logoColor=white) |
-| **🐍 Programming** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **📊 Visualization** | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) |
+| **🐍 Programming** | ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=4479A1) |
+| **📊 Visualization** | ![Tableau](https://img.shields.io/badge/Tableau-4479A1?style=flat-square&logo=tableau&logoColor=white) |
 | **🧠 Other** | Problem Solving, Analytical Thinking |
 
 ---
@@ -40,8 +40,6 @@ A live NFT marketplace website. Gained experience in database management and dep
 <!-- Animated Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&animation=twinkling" width="100%">
 
-  <sub style="color: #666; opacity: 0.5; font-size: 8px;">
-    Ⓒ 2026 Mangal Kundu • All Rights Reserved
-  </sub>
+<sup>Ⓒ 2026 Mangal Kundu • All Rights Reserved</sup>
 
 </div>
