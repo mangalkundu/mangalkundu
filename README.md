@@ -34,7 +34,7 @@ Passionate about **Data Analysis** | Data Science & Software Development Enthusi
 A live NFT marketplace website. Gained experience in database management and deployment.
 
 ### 🔹 Pottery Business Sales Dashboard
-[![Repository](https://img.shields.io/badge/GitHub-View_Repo-E97627?style=flat-square&logo=github)](https://github.com/mangalkundu/futurenft-marketplace)
+[![Repository](https://img.shields.io/badge/GitHub-View_Repo-E97627?style=flat-square&logo=github)](https://github.com/mangalkundu/pottery-sales-dashboard)
 [![Tableau](https://img.shields.io/badge/Tableau-Dashboard-4285F4?style=flat-square&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/mangalkundu/viz/PotteryBusinessSalesDashboard/Dashboard1)
 
 Interactive dashboard showing 6 months of sales data, B2B vs Retail comparison, daily trends, and top products.
